@@ -1,0 +1,6 @@
+module Pods_Reward {
+  umbrella header "Pods-Reward-umbrella.h"
+
+  export *
+  module * { export * }
+}
